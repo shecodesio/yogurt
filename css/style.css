@@ -28,13 +28,12 @@ body {
   font-family: "Cerebri Sans";
 }
 
-h1, h2 {
+h1,
+h2 {
   text-align: center;
   margin: 15px 0;
   font-weight: bold;
-
 }
-
 
 h1 {
   color: #885df1;
@@ -50,7 +49,7 @@ h2 {
 }
 
 a {
-  color: #885DF1;
+  color: #885df1;
 }
 
 a:hover {
@@ -60,8 +59,6 @@ a:hover {
 p {
   font-size: 18px;
   line-height: 30px;
-  
-
 }
 
 img {
@@ -69,14 +66,13 @@ img {
   max-width: 100%;
 }
 
-
 button {
-  background: #885DF1;
+  background: #885df1;
   color: white;
   display: block;
   margin: 30px auto;
   width: 90%;
-  border-radius: 50px; 
+  border-radius: 50px;
   border: none;
   font-size: 24px;
   font-family: "Cerebri Sans";
